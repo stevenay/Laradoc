@@ -1,4 +1,4 @@
-## Laravel PHP Framework
+## Laradoc (Laravel Documentation with Easy Search Features)
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
@@ -6,18 +6,17 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+Laradoc is Lavavel documentation with search features. There are tons of concepts and functions in Laravel Framework and it's terribly difficult to remember all these things while developing. That's why most developers (almost every developer) always have to look documentation when they are not sure about what they code is in right way.
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+The problem is Laravel documentation has no search box. For example, I want to know what URL functions are available in Laravel. But there is no Documents titled with URL and where should I find it. In actual, URL functions are documented under **"Helpers"** document. 
 
-## Official Documentation
-
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+Laradoc try to solve this problem by adding search box. You can make **4 types** of searching -
+* Everywhere
+* Article
+* Topic
+* Code.
+By this way, you can use Laravel Documentation like API library and your development workflow will be improved better.
 
 ### License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+The Laradoc is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
