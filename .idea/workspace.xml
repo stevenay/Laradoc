@@ -1,7 +1,225 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aaa7aa7d-61c1-450b-a956-b3c80f5694f2" name="Default" comment="" />
+    <list default="true" id="aaa7aa7d-61c1-450b-a956-b3c80f5694f2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/cloud-bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/laravel-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/partials/_button.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/partials/_colors.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/categories/_form.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/documents/_form.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/partials/_nav.blade.php.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/partials/_slide-menu.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/pages/about_tmpl.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/admin.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ajax-helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/lib/ajax.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/angular.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/app.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/app.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/appcache.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/application.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/base.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/base.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/bower.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/c.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/coffeescript.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/collections/collection.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/config.coffee.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/content/content.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/vendor/cookies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/categories/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/d3.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/db.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/debug.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/models/doc.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/doc_list.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/doc_picker.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/collections/docs.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/docs.js.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/layout/document.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/categories/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/documents/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/elasticquent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/ember.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/collections/entries.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/models/entry.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/entry_list.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/content/entry_page.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/error_tmpl.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/lib/events.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/vendor/fastclick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/go.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/pages/help_tmpl.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/hidden.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/categories/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/javascript.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/jquery.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/knockout.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/laravel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/lib/license.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/list/list_focus.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/list/list_fold.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/list/list_select.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/mdn.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/meteor.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/layout/mobile.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/models/model.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/layout/nav.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/misc/news.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/news.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/pages/news_tmpl.coffee.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/misc/notice.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/notice_tmpl.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/misc/notif.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/notif_tmpl.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/content/offline_page.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/pages/offline_tmpl.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/partials/page-heading.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/lib/page.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/list/paginated_list.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/layout/path.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/path_tmpl.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/php.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/phpunit.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/vendor/prism.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pubsub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/vendor/raven.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/rdoc.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/react.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/regular_expression.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/layout/resizer.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/results.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/content/root_page.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/pages/root_tmpl.coffee.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/router.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/rust.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/search/search.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/search/search_scope.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/searcher.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/selectize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/settings.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/shortcuts.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/documents/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/sidebar.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/sidebar_hover.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/sidebar_tmpl.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/sphinx.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/content/static_page.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/lib/store.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/subscribe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/models/type.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/type_list.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/content/type_page.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/pages/type_tmpl.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/collections/types.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/update_checker.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/lib/util.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/view.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/viewport-units-buggyfill.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/app.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/badges.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/close.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/code.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/glyphicons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/input-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/jumbotron.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/media.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/background-variant.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/border-radius.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/center-block.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/clearfix.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/gradients.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/grid-framework.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/hide-text.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/image.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/nav-divider.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/nav-vertical-align.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/opacity.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/panels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/progress-bar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/reset-filter.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/resize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/responsive-visibility.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/size.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/tab-focus.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/table-row.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/text-emphasis.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/text-overflow.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/vendor-prefixes.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/modals.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/navs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/pager.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/panels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/print.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/responsive-embed.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/tables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/theme.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/type.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/wells.less" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2015_05_17_193215_create_documents_table.php" afterPath="$PROJECT_DIR$/database/migrations/2015_05_17_193215_create_documents_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Document.php" afterPath="$PROJECT_DIR$/app/Document.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Requests/DocumentRequest.php" afterPath="$PROJECT_DIR$/app/Http/Requests/DocumentRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/DocumentsController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/DocumentsController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/partials/_nav.blade.php" afterPath="$PROJECT_DIR$/resources/views/partials/_nav.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/app.css" afterPath="$PROJECT_DIR$/public/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/documents/create.blade.php" afterPath="$PROJECT_DIR$/resources/views/documents/create.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.php" afterPath="$PROJECT_DIR$/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/documents/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/documents/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="laradoc.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -19,47 +237,81 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="laradoc" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DocumentsController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DocumentsController.php">
+      <file leaf-file-name="ElasticquentTrait.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/fairholm/elasticquent/src/ElasticquentTrait.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.72527474" vertical-offset="0" max-vertical-offset="1001">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-              <folding>
-                <element signature="e#39#61#0#PHP" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.33264887" vertical-offset="6892" max-vertical-offset="12694">
+              <caret line="328" column="26" selection-start-line="328" selection-start-column="20" selection-end-line="328" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/articles/index.php" />
-        <option value="$PROJECT_DIR$/resources/views/articles/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/categories/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/partials/_colors.scss" />
+        <option value="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/categories/edit.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/pubsub.js" />
+        <option value="$PROJECT_DIR$/resources/views/admin.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/vendor/bootstrap.css" />
+        <option value="$PROJECT_DIR$/../dmca-app/app/Http/Controllers/NoticesController.php" />
+        <option value="$PROJECT_DIR$/public/js/ajax-helper.js" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CategoriesController.php" />
+        <option value="$PROJECT_DIR$/resources/views/categories/index.blade.php" />
+        <option value="$PROJECT_DIR$/public/app.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/resources/assets/coffee/application.coffee" />
+        <option value="$PROJECT_DIR$/app/regular_expression.php" />
+        <option value="$PROJECT_DIR$/public/js/app.js" />
+        <option value="$PROJECT_DIR$/public/js/vendor/laravel.js" />
+        <option value="$PROJECT_DIR$/public/css/vendor/selectize/selectize.bootstrap3.css" />
+        <option value="$PROJECT_DIR$/public/css/vendor/selectize.bootstrap3.css" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/app.scss" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_12_084226_add_fulltext_index_on_documents_table.php" />
         <option value="$PROJECT_DIR$/config/database.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
-        <option value="$PROJECT_DIR$/database/migrations/2015_05_17_182124_create_articles_table.php" />
         <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/config/app.php" />
-        <option value="$PROJECT_DIR$/resources/views/articles/create.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/ArticlesController.php" />
-        <option value="$PROJECT_DIR$/app/Article.php" />
-        <option value="$PROJECT_DIR$/database/migrations/2015_05_17_193215_create_documents_table.php" />
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_19_074957_add_search_index_to_documents_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_19_084139_add_fulltext_index_to_documents_table.php" />
+        <option value="$PROJECT_DIR$/public/js/vendor/selectize.js" />
+        <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/resources/views/partials/_nav.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_25_175936_add_order_index_to_categories_table.php" />
+        <option value="$PROJECT_DIR$/app/Category.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_26_140357_add_order_index_to_documents.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_26_172038_drop_unique_index_from_title_documents.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ApiSearchController.php" />
+        <option value="$PROJECT_DIR$/resources/views/documents/show.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_05_17_193215_create_documents_table.php" />
+        <option value="$PROJECT_DIR$/resources/views/documents/edit.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Requests/DocumentRequest.php" />
-        <option value="$PROJECT_DIR$/resources/views/documents/create.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/errors/_list.blade.php" />
+        <option value="$PROJECT_DIR$/resources/assets/sass/partials/page-heading.scss" />
+        <option value="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/config/elasticquent.php" />
         <option value="$PROJECT_DIR$/app/Document.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/DocumentsSearchController.php" />
+        <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/DocumentsController.php" />
+        <option value="$PROJECT_DIR$/vendor/fairholm/elasticquent/src/ElasticquentTrait.php" />
       </list>
     </option>
   </component>
@@ -71,14 +323,14 @@
       </GulpfileState>
     </gulpfiles>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="312" />
+    <option name="x" value="695" />
     <option name="y" value="23" />
-    <option name="width" value="1368" />
+    <option name="width" value="987" />
     <option name="height" value="1023" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -101,6 +353,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -129,11 +382,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -147,15 +396,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="errors" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -169,60 +414,62 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="documents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laradoc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laradoc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laradoc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laradoc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../elastic-search/app/Http/routes.php" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="configurable.group.appearance" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesBlade" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js/vendor" />
+      <recent name="$PROJECT_DIR$/resources/assets/coffeescript" />
+      <recent name="$PROJECT_DIR$/public/css/vendor" />
+      <recent name="$PROJECT_DIR$/resources/assets/sass" />
+      <recent name="$PROJECT_DIR$/public/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js" />
+      <recent name="$PROJECT_DIR$/public/css" />
+      <recent name="$PROJECT_DIR$/resources/assets/sass/bootswatch" />
+      <recent name="$PROJECT_DIR$/resources/assets/sass/partials" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.regular_expression.php">
+    <configuration default="false" name="regular_expression.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/laradoc/app/regular_expression.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="regular_expression.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/regular_expression.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
@@ -241,9 +488,23 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
-    <list size="0" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.regular_expression.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.regular_expression.php" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.regular_expression.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.regular_expression.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -259,27 +520,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="312" y="23" width="1368" height="1023" extended-state="0" />
+    <frame x="695" y="23" width="987" height="1023" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3362573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3586626" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3996004" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -301,249 +563,589 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/database/migrations/2015_05_19_105403_modify_category_name_categories_table.php</url>
+          <line>2</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.env">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="528">
-          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.17582418" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16483517" vertical-offset="385" max-vertical-offset="1408">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/partials/_nav.blade.php.old">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1210">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/partials/_slide-menu.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.021978023" vertical-offset="22" max-vertical-offset="4532">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/categories/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30769232" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_06_19_074957_add_search_index_to_documents_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63736266" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_06_19_084139_add_fulltext_index_to_documents_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7032967" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14285715" vertical-offset="3421" max-vertical-offset="5654">
+          <caret line="157" column="30" selection-start-line="157" selection-start-column="30" selection-end-line="157" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_06_25_175936_add_order_index_to_categories_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61538464" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48351648" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="528">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.65368855" vertical-offset="88" max-vertical-offset="1386">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/partials/_nav.blade.php">
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_06_26_140357_add_order_index_to_documents.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="682" max-vertical-offset="836">
-          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.21978022" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Route.php">
+    <entry file="file://$PROJECT_DIR$/resources/assets/coffee/views/layout/document.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="21802">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1210">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Registrar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.043956045" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Services/Registrar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.032967035" vertical-offset="55" max-vertical-offset="1056">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.010989011" vertical-offset="209" max-vertical-offset="1210">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7692308" vertical-offset="0" max-vertical-offset="1056">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Http/ResponseTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08791209" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5714286" vertical-offset="0" max-vertical-offset="4664">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43956044" vertical-offset="0" max-vertical-offset="1122">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3406594" vertical-offset="0" max-vertical-offset="3256">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/BusServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1001">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/documents/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06593407" vertical-offset="0" max-vertical-offset="1001">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17582418" vertical-offset="0" max-vertical-offset="1001">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1001">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env.example">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1001">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/documents/show.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.003996004" vertical-offset="4" max-vertical-offset="1144">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5604396" vertical-offset="2123" max-vertical-offset="3124">
-          <caret line="124" column="49" selection-start-line="124" selection-start-column="39" selection-end-line="124" selection-end-column="49" />
-          <folding>
-            <marker date="1426253275000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder=" The Guard implementation. ..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder=" The registrar implementation. ..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder=" Show the application registration form. ..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder=" Handle a registration request for the application. ..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder=" Show the application login form. ..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder=" Handle a login request to the application. ..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder=" Get the failed login message. ..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder=" Log the user out of the application. ..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder=" Get the post register / login redirect path. ..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder=" Get the path to the login route. ..." />
-            <marker date="1426253275000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32967034" vertical-offset="0" max-vertical-offset="1056">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5934066" vertical-offset="660" max-vertical-offset="2882">
-          <caret line="57" column="43" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="43" />
-          <folding>
-            <marker date="1431870150000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431870150000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431870150000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431870150000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431870150000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431870150000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431870150000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431870150000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431870150000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431870150000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431870150000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431870150000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431870150000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37362638" vertical-offset="0" max-vertical-offset="1001">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31868133" vertical-offset="3531" max-vertical-offset="4554">
-          <caret line="175" column="58" selection-start-line="175" selection-start-column="58" selection-end-line="175" selection-end-column="58" />
-          <folding />
+        <state vertical-scroll-proportion="0.3956044" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2015_05_17_193215_create_documents_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46153846" vertical-offset="0" max-vertical-offset="1001">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.43956044" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/documents/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26373628" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/documents/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2857143" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/partials/_nav.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24175824" vertical-offset="0" max-vertical-offset="1001">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding />
+        <state vertical-scroll-proportion="1.043956" vertical-offset="495" max-vertical-offset="1980">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36263737" vertical-offset="231" max-vertical-offset="1232">
+          <caret line="19" column="79" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43956044" vertical-offset="0" max-vertical-offset="1254">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Requests/DocumentRequest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48351648" vertical-offset="0" max-vertical-offset="1001">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.2857143" vertical-offset="0" max-vertical-offset="1100">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/partials/page-heading.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42827868" vertical-offset="0" max-vertical-offset="976">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6593407" vertical-offset="0" max-vertical-offset="1606">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36263737" vertical-offset="3553" max-vertical-offset="4554">
+          <caret line="178" column="31" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/documents/_form.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37362638" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
           <folding>
-            <marker date="1431892074000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431892074000" expanded="true" signature="-1:-1" placeholder=" Determine if the user is authorized to make this request. ..." />
-            <marker date="1431892074000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1431892074000" expanded="true" signature="-1:-1" placeholder=" Get the validation rules that apply to the request. ..." />
-            <marker date="1431892074000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1431892074000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432060725000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432060725000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432060725000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1432060725000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../elastic-search/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24175824" vertical-offset="0" max-vertical-offset="1430">
+          <caret line="11" column="6" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;laravel/laravel&quot;...}" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="{&quot;type&quot;: &quot;vcs&quot;...}" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="{&quot;php&quot;: &quot;&gt;=5.5.9&quot;...}" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="{&quot;mockery/mockery&quot;: &quot;0.9.*&quot;...}" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="{&quot;App\\&quot;: &quot;app/&quot;...}" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436436979000" expanded="true" signature="-1:-1" placeholder="{&quot;preferred-install&quot;: &quot;dist&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24175824" vertical-offset="0" max-vertical-offset="1320">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;laravel/laravel&quot;...}" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="{&quot;type&quot;: &quot;vcs&quot;...}" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="{&quot;laravel/framework&quot;: &quot;5.0.*&quot;...}" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="{&quot;phpunit/phpunit&quot;: &quot;~4.0&quot;...}" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="{&quot;App\\&quot;: &quot;app/&quot;...}" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436684541000" expanded="true" signature="-1:-1" placeholder="{&quot;preferred-install&quot;: &quot;dist&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ApiSearchController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24175824" vertical-offset="0" max-vertical-offset="2134">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="123" selection-end-column="5" />
+          <folding>
+            <marker date="1435431897000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder=" Guess the similar word ..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="false" signature="-1:-1" placeholder="{...}" />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1435431897000" expanded="false" signature="-1:-1" placeholder="{...}" />
+            <marker date="1435431897000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2857143" vertical-offset="0" max-vertical-offset="1001">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.52747256" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
           <folding>
-            <marker date="1431891260000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1431891260000" expanded="true" signature="-1:-1" placeholder=" The Laravel Default Welcome Page ..." />
-            <marker date="1431891260000" expanded="true" signature="-1:-1" placeholder=" Articles Route ..." />
-            <marker date="1431891260000" expanded="true" signature="-1:-1" placeholder=" Authentication ..." />
-            <marker date="1431891260000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431891260000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436689111000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436689111000" expanded="true" signature="-1:-1" placeholder=" The Laravel Default Welcome Page ..." />
+            <marker date="1436689111000" expanded="true" signature="-1:-1" placeholder=" Articles Route ..." />
+            <marker date="1436689111000" expanded="true" signature="-1:-1" placeholder=" Authentication ..." />
+            <marker date="1436689111000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436689111000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/documents/create.blade.php">
+    <entry file="file://$PROJECT_DIR$/config/elasticquent.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50549453" vertical-offset="0" max-vertical-offset="1001">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.06593407" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
           <folding>
-            <marker date="1431892670000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431892670000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431892670000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431892670000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436694414000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/errors/_list.blade.php">
+    <entry file="file://$PROJECT_DIR$/../elastic-search/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13186814" vertical-offset="0" max-vertical-offset="1001">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.46153846" vertical-offset="0" max-vertical-offset="1100">
+          <caret line="31" column="12" selection-start-line="25" selection-start-column="11" selection-end-line="31" selection-end-column="12" />
           <folding>
-            <marker date="1431892707000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436470488000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436470488000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436470488000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436470488000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436470488000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436470488000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436470488000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436470488000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436470488000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436470488000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1436470488000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1436470488000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DocumentsSearchController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48351648" vertical-offset="22" max-vertical-offset="3212">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <marker date="1436696089000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder=" Guess the similar word ..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder=" Append the URL to the returned data Array ..." />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436696089000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34065935" vertical-offset="1485" max-vertical-offset="3102">
+          <caret line="71" column="34" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+          <folding>
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="{&quot;valueField&quot;: 'url'...}" />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="{&quot;type&quot;: 'GET'...}" />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436696513000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/vendor/selectize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="12.604396" vertical-offset="61061" max-vertical-offset="81180">
+          <caret line="3340" column="55" selection-start-line="3340" selection-start-column="55" selection-end-line="3340" selection-end-column="55" />
+          <folding>
+            <marker date="1435130334000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435130334000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Document.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08791209" vertical-offset="0" max-vertical-offset="1001">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.10989011" vertical-offset="0" max-vertical-offset="2926">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding>
-            <marker date="1431892768000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1431892768000" expanded="true" signature="-1:-1" placeholder=" Fillable fields for Document ..." />
-            <marker date="1431892768000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436694572000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder=" Fillable fields for Document ..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder=" Mapping Properties for Elasticquent ..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder=" Create new Document by Business Term ..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder=" A document is owned by one Category. ..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder=" Scoping Full Text Searching ..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder=" Build SearchIndexHeading Column ..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder=" Inject &lt;a&gt; link before h3 tags into the Html ..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder=" Build Search Index Heading String for Document's content ..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436694572000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DocumentsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72527474" vertical-offset="0" max-vertical-offset="1001">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.054945055" vertical-offset="2123" max-vertical-offset="5412">
+          <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
           <folding>
-            <element signature="e#39#61#0#PHP" expanded="true" />
+            <marker date="1436705434000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder=" Create new DocumentsController Instance. ..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder=" Show All Document Articles ..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder=" Show the Document ..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder=" Show the form to create new Document Article ..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder=" Persist the Document ..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder=" Show the edit form for Document ..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder=" Update the Document to the Db ..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder=" Download and update the content from Laravel.com/docs/master ..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436705434000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/fairholm/elasticquent/src/ElasticquentTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33264887" vertical-offset="6892" max-vertical-offset="12694">
+          <caret line="328" column="26" selection-start-line="328" selection-start-column="20" selection-end-line="328" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>

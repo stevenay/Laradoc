@@ -1,5 +1,6 @@
 <?php namespace App\Http\Requests;
 
+use App\Document;
 use App\Http\Requests\Request;
 
 class DocumentRequest extends Request {
@@ -21,10 +22,22 @@ class DocumentRequest extends Request {
 	 */
 	public function rules()
 	{
-		return [
-			'title' => 'required|min:3',
-			'content' => 'required|min:3'
-		];
+		$document = $this->route('documents');
+
+		$rules = [ 'content' => 'required|min:3' ];
+
+		switch($this->method()) {
+			case 'POST':
+				$rules[] = [ 'title' => 'unique:documents,title,NULL,id,category_id,'.$this->input('category_id').'|required|min:3' ];
+				break;
+			case 'PUT':
+			case 'PATCH':
+				$rules['title'] = "unique:documents,title,$document->id,id,category_id,{$this->input('category_id')}|required|min:3";
+				break;
+			default:break;
+		}
+
+		return $rules;
 	}
 
 }

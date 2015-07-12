@@ -19,8 +19,15 @@ Route::get('welcome', 'WelcomeController@index');
 /**
  * Articles Route
  */
-Route:get('/', 'DocumentsController@index');
+Route::get('/', 'DocumentsController@index');
+
+//Route::get('test', 'ApiSearchController@test');
+
+Route::get('documents/search', 'DocumentsSearchController@index');
+Route::get('documents/sync', 'DocumentsController@sync');
 Route::resource('documents', 'DocumentsController');
+
+Route::resource('categories', 'CategoriesController');
 
 /**
  * Authentication

@@ -1,5 +1,7 @@
 <?php namespace App\Providers;
 
+use App\Category;
+use Illuminate\Support\Facades\View;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider {
@@ -11,7 +13,17 @@ class AppServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		//
+		// Register categories variable
+
+		view()->composer(['documents.index', 'documents.show', 'categories.index'], function($view) {
+			// or 'articles.*' for all these views if needed
+			$view->with('categories', Category::with('documents')->orderBy('order_index')->get());
+		});
+
+		view()->composer(['documents.create', 'documents.edit'], function($view) {
+			// or 'articles.*' for all these views if needed
+			$view->with('categories', Category::orderBy('category_name', 'asc')->lists('category_name', 'id'));
+		});
 	}
 
 	/**

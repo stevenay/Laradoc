@@ -1,6 +1,7 @@
 @extends('app')
 
 @section('content')
-    <h1>LaraDoc</h1>
-    <h2>Search Laravel Documentation</h2>
+    {{--<h1 class="page-heading">LaraDoc</h1>--}}
+
+
 @endsection
