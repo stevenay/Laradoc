@@ -1,225 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aaa7aa7d-61c1-450b-a956-b3c80f5694f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/cloud-bar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/laravel-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/partials/_button.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/partials/_colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/categories/_form.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/documents/_form.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/partials/_nav.blade.php.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/partials/_slide-menu.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/pages/about_tmpl.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/admin.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ajax-helper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/lib/ajax.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/angular.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/app.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/app.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/appcache.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/application.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/base.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/base.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/bower.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/c.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/coffeescript.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/collections/collection.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/config.coffee.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/content/content.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/vendor/cookies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/categories/create.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/d3.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/db.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/debug.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/models/doc.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/doc_list.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/doc_picker.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/collections/docs.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/docs.js.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/layout/document.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/categories/edit.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/documents/edit.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/elasticquent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/ember.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/collections/entries.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/models/entry.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/entry_list.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/content/entry_page.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/error_tmpl.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/lib/events.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/vendor/fastclick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/go.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/pages/help_tmpl.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/hidden.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/categories/index.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/javascript.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/jquery.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/knockout.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/laravel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/lib/license.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/list/list_focus.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/list/list_fold.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/list/list_select.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/mdn.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/meteor.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/layout/mobile.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/models/model.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/layout/nav.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/misc/news.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/news.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/pages/news_tmpl.coffee.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/misc/notice.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/notice_tmpl.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/misc/notif.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/notif_tmpl.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/content/offline_page.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/pages/offline_tmpl.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/partials/page-heading.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/lib/page.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/list/paginated_list.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/layout/path.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/path_tmpl.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/php.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/phpunit.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/vendor/prism.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/pubsub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/vendor/raven.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/rdoc.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/react.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/regular_expression.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/layout/resizer.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/results.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/content/root_page.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/pages/root_tmpl.coffee.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/router.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/rust.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/search/search.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/search/search_scope.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/searcher.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/selectize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/settings.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/shortcuts.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/documents/show.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/sidebar.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/sidebar_hover.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/sidebar_tmpl.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/pages/sphinx.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/content/static_page.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/lib/store.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/subscribe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/models/type.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/sidebar/type_list.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/content/type_page.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/templates/pages/type_tmpl.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/collections/types.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/app/update_checker.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/lib/util.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/coffee/views/view.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/viewport-units-buggyfill.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/app.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/badges.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/close.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/code.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/media.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/background-variant.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/border-radius.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/center-block.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/clearfix.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/gradients.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/grid-framework.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/hide-text.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/image.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/nav-divider.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/nav-vertical-align.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/opacity.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/progress-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/reset-filter.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/resize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/responsive-visibility.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/size.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/tab-focus.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/table-row.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/text-emphasis.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/text-overflow.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/vendor-prefixes.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/navs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/pager.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/print.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/responsive-embed.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/type.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/assets/less/bootstrap/wells.less" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2015_05_17_193215_create_documents_table.php" afterPath="$PROJECT_DIR$/database/migrations/2015_05_17_193215_create_documents_table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Document.php" afterPath="$PROJECT_DIR$/app/Document.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Requests/DocumentRequest.php" afterPath="$PROJECT_DIR$/app/Http/Requests/DocumentRequest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/DocumentsController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/DocumentsController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/partials/_nav.blade.php" afterPath="$PROJECT_DIR$/resources/views/partials/_nav.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/app.css" afterPath="$PROJECT_DIR$/public/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/documents/create.blade.php" afterPath="$PROJECT_DIR$/resources/views/documents/create.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.php" afterPath="$PROJECT_DIR$/config/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/documents/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/documents/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="aaa7aa7d-61c1-450b-a956-b3c80f5694f2" name="Default" comment="" />
     <ignored path="laradoc.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -246,8 +28,8 @@
       <file leaf-file-name="ElasticquentTrait.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vendor/fairholm/elasticquent/src/ElasticquentTrait.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33264887" vertical-offset="6892" max-vertical-offset="12694">
-              <caret line="328" column="26" selection-start-line="328" selection-start-column="20" selection-end-line="328" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.7063655" vertical-offset="6880" max-vertical-offset="12804">
+              <caret line="344" column="26" selection-start-line="344" selection-start-column="26" selection-end-line="344" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -521,7 +303,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="695" y="23" width="987" height="1023" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1143,8 +925,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/fairholm/elasticquent/src/ElasticquentTrait.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33264887" vertical-offset="6892" max-vertical-offset="12694">
-          <caret line="328" column="26" selection-start-line="328" selection-start-column="20" selection-end-line="328" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.7063655" vertical-offset="6880" max-vertical-offset="12804">
+          <caret line="344" column="26" selection-start-line="344" selection-start-column="26" selection-end-line="344" selection-end-column="26" />
           <folding />
         </state>
       </provider>
